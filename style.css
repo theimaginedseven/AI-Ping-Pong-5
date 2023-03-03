@@ -1,0 +1,29 @@
+h3
+{
+    background-color:white ;
+    height: 50px;
+    font-size: 45px;
+}
+
+
+body{
+    background-size: contain;
+}
+
+
+.copy_right_footer
+{
+    background-color: grey;
+    color:white;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+}
+
+canvas{
+    border-radius: 10;
+    box-shadow: grey;
+}
